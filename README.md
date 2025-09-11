@@ -17,7 +17,7 @@ Hyun-Jun Cho | 2021041014
 - Jupyter Notebook: Ready & Functional  
 
 
-## 🚀 Environment Status
+##  Environment Status
 - ✅ PyTorch successfully imported and functional
 - ✅ CUDA acceleration available and working (`torch.cuda.is_available()`)
 - ✅ Tensor operations executed successfully
